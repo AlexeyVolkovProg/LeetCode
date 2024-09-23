@@ -5,6 +5,7 @@ import java.util.Arrays;
 
 /**
  * https://leetcode.com/problems/3sum-closest/description/
+ * Сложность: medium
  * Задача заключается в нахождении тройки чисел в массиве, сумма которых ближайшая к target
  * //TODO ИДЕЯ: опять же заключается в использовании трех указателей
  * //TODO Сложность: O(n^2)
